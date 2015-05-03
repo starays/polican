@@ -1,3 +1,4 @@
 srv.pid
 *.pyc
 pelican.pid
+cache/*
